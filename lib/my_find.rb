@@ -7,5 +7,4 @@ def my_find(collection)
     block << yield(collection[i])
     i += 1
   end
-
 end
